@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2024-12-20
-img: cabin.png
+img: CPEN_Chip.png
 alt: image-alt
 project-date: September-December 2024
 client: UBC
