@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2024-12-20
+img: cabin.png
+alt: image-alt
+project-date: September-December 2024
+client: UBC
+category: Class
+description: Computer Engineering 211 is an introduction to microcomputers. The course provided a foundation in digital logic and hardware description languages. It finished with a project using an FPGA to create a cpu capable of processing ARM instructions.
+---
