@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2024-12-20
+img: CPEN_Chip.png
+alt: image-alt
+project-date: September-December 2024
+client: UBC
+category: Class
+description: Computer Engineering 221B is an introduction to software engineering. The course provided covered abstraction and writing solid specifications as well as the importance and basics of testing. During the course I had to work with a team to build a project of our choosing. We chose to make an automatic scheduling app that fills blanks in your timetable. My role was primarily to make the UI, but I also handled the data abstraction.
+---
