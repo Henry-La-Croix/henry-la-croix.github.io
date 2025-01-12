@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2024-12-20
+date: 2024-11-16
+img: Microsoft_Azure.png
+alt: image-alt
+project-date: November 2024
+client: Self
+category: Mini-Project
+description: I made a small program that connects to a Microsoft Azure project. It uses this connection to verify the Microsoft To-Do status of the current user (me) and if any tasks are incomplete it will not allow certain applications to be launched (ie:Steam)
+---
